@@ -10,8 +10,7 @@ namespace HelloWorldSample
     {
         static void Main(string[] args)
         {
-            // comment for developers.
-            // lets see if this comes..
+            // comment for developers. Prints the hello world message
             Console.WriteLine("Hello World");
         }
     }
