@@ -11,6 +11,7 @@ namespace HelloWorldSample
         static void Main(string[] args)
         {
             // comment for developers. Prints the hello world message
+            // trigger CI/CD
             Console.WriteLine("Hello World");
         }
     }
